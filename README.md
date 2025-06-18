@@ -7,6 +7,7 @@ This is a hands-on, beginner-friendly series where I’m building my data analys
 
 
 What You’ll Find Inside:
+
 📊 Day 1: Creating and exploring your first DataFrame
 
 🔍 Day 2: Filtering and sorting rows with conditions
