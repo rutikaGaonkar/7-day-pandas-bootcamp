@@ -23,11 +23,11 @@ What You’ll Find Inside:
 
 Tools & Technologies:
 
-Python (pandas, numpy)
+- Python (pandas, numpy)
 
-Jupyter Notebook
+- Jupyter Notebook
 
-GitHub
+- GitHub
 
 
 Why I’m Doing This:
