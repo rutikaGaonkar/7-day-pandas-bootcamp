@@ -1,4 +1,5 @@
-# day1-pandas-basics
+# 7-day-pandas-bootcamp
+
 
 About This Series:
 
