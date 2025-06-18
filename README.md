@@ -1,23 +1,36 @@
 # day1-pandas-basics
 
-Overview:
-This notebook marks the start of my data analyst journey.
-I created my first DataFrame using pandas and explored the basics of data analysis in Python.
+About This Series:
 
-What I Learned:
-How to import and use the pandas library
-How to create a DataFrame from a dictionary
-How to view, explore, and describe data
-How to add new columns (Bonus, TotalPay)
-How to use df.describe() and df.info() for data insights
+This is a hands-on, beginner-friendly series where I’m building my data analysis skills using Python and pandas — one day at a time. Each notebook explores a core concept through real code, small projects, and clean explanations.
 
-Skills & Tools Used:
-Python
-pandas
+
+What You’ll Find Inside:
+📊 Day 1: Creating and exploring your first DataFrame
+
+🔍 Day 2: Filtering and sorting rows with conditions
+
+🧹 Day 3: Cleaning messy data and handling nulls
+
+📈 Day 4: Data visualization basics
+
+📁 Day 5: Grouping, aggregating & summarizing
+
+📊 Day 6: Building a mini project
+
+☁️ Day 7: Uploading your work to GitHub with a portfolio-ready structure
+
+
+Tools & Technologies:
+
+Python (pandas, numpy)
+
 Jupyter Notebook
+
 GitHub
 
-Files:
-day1_pandas_basics.ipynb — Jupyter notebook with code and comments
 
+Why I’m Doing This:
+
+I’m currently pursuing my Master’s in Data Science and building a strong portfolio to become a job-ready Data Analyst by the end of the year.
 
