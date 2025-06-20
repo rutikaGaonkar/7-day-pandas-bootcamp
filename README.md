@@ -8,19 +8,19 @@ This is a hands-on, beginner-friendly series where I’m building my data analys
 
 What You’ll Find Inside:
 
-📊 Day 1: Creating and exploring your first DataFrame
+ Day 1: Creating and exploring your first DataFrame
 
-🔍 Day 2: Filtering and sorting rows with conditions
+ Day 2: Filtering and sorting rows with conditions
 
-🧹 Day 3: Cleaning messy data and handling nulls
+ Day 3: Cleaning messy data and handling nulls
 
-📈 Day 4: Data visualization basics
+ Day 4: Data visualization basics
 
-📁 Day 5: Grouping, aggregating & summarizing
+ Day 5: Grouping, aggregating & summarizing
 
-📊 Day 6: Building a mini project
+ Day 6: Building a mini project
 
-☁️ Day 7: Uploading your work to GitHub with a portfolio-ready structure
+ Day 7: 
 
 
 Tools & Technologies:
