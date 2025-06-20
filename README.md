@@ -3,7 +3,7 @@
 
 About This Series:
 
-This is a hands-on, beginner-friendly series where I’m building my data analysis skills using Python and pandas — one day at a time. Each notebook explores a core concept through real code, small projects, and clean explanations.
+This is a hands-on, beginner-friendly series where I’m building my data analysis skills using Python and pandas, one day at a time. Each notebook explores a core concept through real code, small projects, and clean explanations.
 
 
 What You’ll Find Inside:
